@@ -27,5 +27,5 @@ cd event-calendar-app
 Using npm:
 ```bash
 npm install
-Open your browser and navigate to
+#### Open your browser and navigate to
 http://localhost:5173/.
