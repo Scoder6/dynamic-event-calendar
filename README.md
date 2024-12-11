@@ -24,16 +24,8 @@ git clone https://github.com/your-username/event-calendar-app.git
 cd event-calendar-app
 ## Install Dependencies
 
-Using npm:
+#### Using npm:
 ```bash
 npm install
 Open your browser and navigate to
 http://localhost:5173/.
-
-Copy code
-
-
-
-
-
-
